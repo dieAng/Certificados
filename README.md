@@ -5,7 +5,7 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de BBDD con SQL - Platzi](SQL_PLSQL/diploma-dbsql.pdf)
 - [Curso práctico de SQL - Platzi](SQL_PLSQL/diploma-practico-sql.pdf)
 - [Curso de PostgreSQL - Platzi](SQL_PLSQL/diploma-postgresql.pdf)
-- [Curso de PostgreSQL aplicado a cincia de datos - Platzi](SQL_PLSQL/diploma-postgresql-datos.pdf)
+- [Curso de PostgreSQL aplicado a ciencia de datos - Platzi](SQL_PLSQL/diploma-postgresql-datos.pdf)
 
 ## PHP
 - [Curso Básico de PHP: Instalación, Fundamentos y Operadores - Platzi](PHP/diploma-php.pdf)
