@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visor de Documento</title>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+        background-color: #525659;
+      }
+      iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+      .close-btn {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: #d32f2f;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        z-index: 1000;
+      }
+      .close-btn:hover {
+        background-color: #b71c1c;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="index.html" class="close-btn">Cerrar / Volver</a>
+    <iframe id="pdfViewer" src=""></iframe>
+
+    <script>
+      // Obtener el nombre del archivo de la URL (ej: viewer.html?file=certificado.pdf)
+      const params = new URLSearchParams(window.location.search);
+      const file = params.get("file");
+
+      if (file) {
+        document.getElementById("pdfViewer").src = file;
+      } else {
+        document.body.innerHTML =
+          '<h2 style="color:white;text-align:center;margin-top:20%">No se ha especificado ningún archivo.</h2>';
+      }
+    </script>
+  </body>
+</html>
