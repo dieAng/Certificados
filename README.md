@@ -2,7 +2,7 @@
 Repositorio personal donde almaceno y organizo mis certificados digitales obtenidos en cursos, talleres y programas de formación.
 
 ## SQL y PLSQL
-- [Curso de BBDD con SQL - Platzi](resorces/SQL_PLSQL/diploma-dbsql.pdf)
+- [Curso de BBDD con SQL - Platzi](resources/SQL_PLSQL/diploma-dbsql.pdf)
 - [Curso práctico de SQL - Platzi](resorces/SQL_PLSQL/diploma-practico-sql.pdf)
 - [Curso de PostgreSQL - Platzi](resorces/SQL_PLSQL/diploma-postgresql.pdf)
 - [Curso de PostgreSQL aplicado a ciencia de datos - Platzi](resorces/SQL_PLSQL/diploma-postgresql-datos.pdf)
