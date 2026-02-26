@@ -21,6 +21,7 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de Programación Funcional con Java - Platzi](resources/Java/diploma-java-funcional.pdf)
 - [Curso Básico de Testing en Java - Platzi](resources/Java/diploma-testing-java.pdf)
 - [Curso Avanzado de Java SE - Platzi](resources/Java/diploma-java-avanzado.pdf)
+- [Curso SpringBoot: Desarrollo de aplicaciones Backend - Udemy](resources/Java/certificado_springboot.pdf)
 
 ## PHP
 
@@ -36,3 +37,7 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de PostgreSQL - Platzi](resources/SQL_PLSQL/diploma-postgresql.pdf)
 - [Curso de PostgreSQL aplicado a ciencia de datos - Platzi](resources/SQL_PLSQL/diploma-postgresql-datos.pdf)
 - [Curso de Oracle PL/SQL desde Cero- Udemy](resources/SQL_PLSQL/diploma-oracle-pl-sql.pdf)
+
+## Otros
+
+- [Curso de Git y GitHub - Platzi](resources/Otros/certificado-git-github.pdf)
